@@ -1,16 +1,36 @@
-## Hi there 👋
+# Haretemari.com
 
-<!--
-**hunaksipolo-blog/hunaksipolo-blog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Selamat datang di repositori ini! 🎉  
+Repositori ini dibuat untuk mendokumentasikan serta memperkenalkan **[Haretemari.com](https://haretemari.com/)**,  
+sebuah situs panduan dan informasi seputar permainan digital populer.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📖 Tentang Haretemari.com
+
+Haretemari.com hadir untuk memberikan **tips, strategi, dan panduan bermain** yang bermanfaat bagi pembaca.  
+Dengan konten yang selalu diperbarui, situs ini membantu pengguna memahami cara bermain lebih baik,  
+mengelola modal dengan bijak, serta mengikuti tren permainan digital terkini di tahun 2025.
+
+---
+
+## ⚙️ Fitur Utama
+
+- 📚 Artikel panduan lengkap untuk pemula maupun pemain berpengalaman  
+- 🎯 Strategi dan analisis fitur permainan  
+- 💡 Tips manajemen modal agar tetap aman dan bertanggung jawab  
+- 🔄 Update rutin dengan informasi terbaru  
+
+---
+
+## 🌟 Nilai Kami
+
+- **Sederhana & Mudah Dipahami** – ditulis dengan bahasa ramah pembaca  
+- **Bermanfaat** – berfokus pada pengalaman nyata dan strategi relevan  
+- **Bertanggung Jawab** – mengajak pembaca bermain secara bijak  
+
+---
+
+## 🔗 Kunjungi Website
+
+👉 [Haretemari.com](https://haretemari.com/)
